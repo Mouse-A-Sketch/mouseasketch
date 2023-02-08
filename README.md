@@ -1,1 +1,1 @@
-# Mouse A Sketch
+# Mouse A Sketch - A mouse with a _sketchy_ design
